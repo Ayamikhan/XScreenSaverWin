@@ -1,3 +1,10 @@
+Forked in case I experience the motivation 
+to update it with the newer XScreensaver hacks.
+
+Do not realistically expect this to happen.
+
+Original Read Me :
+
 XScreenSaveWin
 ==============
 
